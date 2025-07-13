@@ -8,7 +8,8 @@ instagram- @ Naman_dev_54
 <title> checkbook practice
 </title>
 </head>
-<body bgcolor= pink><b><p align=center><font size = 6><br><marquee bgcolor= green direction=left>BEST PLATFORM FOR G.K MOCK TEST </marquee><b><i><u></p align></font>
+<body bgcolor= pink><font size=5>
+ <b><p align=center><font size = 6><br><marquee bgcolor= green direction=left>BEST PLATFORM FOR G.K MOCK TEST </marquee><b><i><u></p align></font>
 <br><br><br>
  G.K questions 2025</u></i><br><br>
 Q1- what is the capital of india ? <br><br>
@@ -52,7 +53,7 @@ YEAR<SELECT>
 <b> <i>PLEASE GIVE FEEDBACK FOR US.<br><br>
 <textarea rows=3 cols=30 placeholder>write feedback...</textarea><br><br><br><br><br><br><br>
 <p align=right><I><B><font color= golden>DEVELOPER : NAMAN DEV KAKRAN<BR><BR>
-CONTACT NO. : 9058582013, 8273864340</p align></font>
+CONTACT NO. : 9058582013, 8273864340</p align></font></B></I>font>
 </body>
 </html>
 
