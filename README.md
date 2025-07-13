@@ -2,6 +2,7 @@
 I am a beginner 
 so, please support me.
 instagram- @ Naman_dev_54
+
 <html>
 <head>
 <title> checkbook practice
@@ -25,8 +26,7 @@ password:<br><br>
 <input type="password"name=password><br><br>
 sumbit
 <input type="submit"name=submit><br><br>
-reset
-<input type="reset"name=reset><br></form><br><br>
+resetype="reset"name=reset><br></form><br><br>
 <b><i><u>DATE OF BIRTH(D.O.B)<BR><br></U>
 MONTHS<SELECT>
 <OPTION>MONTHS</OPTION>
